@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd512553-6a06-4800-a7b1-d97da0746b14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeWageProgramPart2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +38,41 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="EmployeeWageUC7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC7" />
+  <component name="RunManager" selected="Application.EmployeeWageUC5">
+    <configuration name="EmployeeWageUC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC1" />
+      <module name="EmployeeWageProgramPart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeWageUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC2" />
+      <module name="EmployeeWageProgramPart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeWageUC3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC3" />
+      <module name="EmployeeWageProgramPart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeWageUC5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC5" />
+      <module name="EmployeeWageProgramPart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeWageUC6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC6" />
       <module name="EmployeeWageProgramPart2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,7 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeWageUC7" />
+        <item itemvalue="Application.EmployeeWageUC5" />
+        <item itemvalue="Application.EmployeeWageUC6" />
+        <item itemvalue="Application.EmployeeWageUC3" />
+        <item itemvalue="Application.EmployeeWageUC2" />
+        <item itemvalue="Application.EmployeeWageUC1" />
       </list>
     </recent_temporary>
   </component>
