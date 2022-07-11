@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd512553-6a06-4800-a7b1-d97da0746b14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeWageProgramPart2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeWageUC9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeWageUC7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeWageUC7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +37,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.EmployeeWageUC8">
+    <configuration name="EmployeeWageUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC2" />
+      <module name="EmployeeWageProgramPart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeWageUC3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC3" />
+      <module name="EmployeeWageProgramPart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeWageUC6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC6" />
+      <module name="EmployeeWageProgramPart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmployeeWageUC7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EmployeeWageUC7" />
       <module name="EmployeeWageProgramPart2" />
@@ -49,9 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmployeeWageUC8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeWageUC8" />
+      <module name="EmployeeWageProgramPart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeWageUC8" />
+        <item itemvalue="Application.EmployeeWageUC3" />
+        <item itemvalue="Application.EmployeeWageUC2" />
         <item itemvalue="Application.EmployeeWageUC7" />
+        <item itemvalue="Application.EmployeeWageUC6" />
       </list>
     </recent_temporary>
   </component>

@@ -33,6 +33,9 @@ public class EmployeeWageUC7 {
         return totalEmpWage;
     }
     public static void main(String[] args) {
+
         computeEmpWage();
     }
+
+
 }
